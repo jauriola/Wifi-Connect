@@ -1,3 +1,2 @@
-# PENESDEPOLLA
-Po ehto e un repositorio pasar lah cosah y eso
-En berdá no c no zoy 100tifiko
+# Wifi Connect
+repositorio para testear funcionamiento WifiConnect
